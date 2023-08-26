@@ -72,3 +72,4 @@ function resultado {
 
 
 resultado "$IMC"
+echo "Creado por Arnulfo Degracia"
